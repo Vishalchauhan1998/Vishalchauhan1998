@@ -7,7 +7,7 @@
 ```python
 class Vishal:
     def __init__(self):
-        self.code=["Java","C++","Python","R","HTML","CSS","JavaScript", "Swift","PHP"]
+        self.code=["Python","Swift","Java","R","JavaScript","SwiftUI"]
         self.tools=["TensorFlow","Flask","NumPy","Pandas","Sklearn","Pytorch","Keras","OpenCV","Matplotlib "]
         self.interest=("Problem Solving","Reading Books","Writing")
        
